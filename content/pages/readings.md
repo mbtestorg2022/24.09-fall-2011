@@ -300,7 +300,7 @@ Externalism (cont.)
 
 \[Chalmers\] Burge, Tyler. "Individualism and the Mental." Chapter 55.
 
-Chalmers, David J. "Forward to Andy Clark's Supersizing The Mind." _Canberra_, November 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://consc.net/papers/supersizing.pdf))
+Chalmers, David J. "Forward to Andy Clark's Supersizing The Mind." _Canberra_, November 2007. ([PDF](http://consc.net/papers/supersizing.pdf))
 
 \[Chalmers\] Clark, Andy, and David J. Chalmers. "The Extended Mind." Chapter 59.
 
@@ -388,7 +388,7 @@ Also available:
 
 "[Epiphenomenal Qualia](http://instruct.westvalley.edu/lafave/epiphenomenal_qualia.html)".
 
-Lewis, David. "What Experience Teaches." _Mind and Cognition_ (1990). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://www.andrewmbailey.com/dkl/What_Experience_Teaches.pdf))
+Lewis, David. "What Experience Teaches." _Mind and Cognition_ (1990). ([PDF - 1.2MB](http://www.andrewmbailey.com/dkl/What_Experience_Teaches.pdf))
 
 
 {{< tdclose >}}
@@ -436,7 +436,7 @@ Consciousness and its place in nature (cont.)
 
 ———. "[Does Conceivability Entail Possibility?](http://philpapers.org/rec/CHADCE)" _Conceivability and Possibility_ (2002): 145–200.
 
-Nagel, Thomas. "Brain Bisection and the Unity of Consciousness." _Synthese_ 22 (1971): 396–413. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://phil415.pbworks.com/f/Nagel.pdf))
+Nagel, Thomas. "Brain Bisection and the Unity of Consciousness." _Synthese_ 22 (1971): 396–413. ([PDF - 1.2MB](http://phil415.pbworks.com/f/Nagel.pdf))
 
 ———. "[Panpsychism](http://plato.stanford.edu/entries/panpsychism/)." _Stanford Encyclopedia of Philosophy_ (2010).
 

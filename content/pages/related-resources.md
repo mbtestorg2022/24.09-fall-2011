@@ -4,7 +4,7 @@ title: Related Resources
 uid: cd218b34-d18e-e3f8-0a81-ab2b26341b14
 ---
 
-The Pink Guide to Taking Philosophy Classes (MIT Department of Philosophy) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/philos/www/guides/pinkguide.pdf))
+The Pink Guide to Taking Philosophy Classes (MIT Department of Philosophy) ([PDF](http://web.mit.edu/philos/www/guides/pinkguide.pdf))
 
 Writing Links
 -------------
